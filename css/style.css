@@ -1,0 +1,18 @@
+body {
+  font-family: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+.card, .list-group-item {
+  border-radius: 10px;
+}
+.ad-card .card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
+main h2 {
+  font-weight: 600;
+}
+.btn.added {
+  color: white !important;
+  background-color: #d63384;
+  border-color: #d63384;
+}
